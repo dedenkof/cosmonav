@@ -67,11 +67,11 @@ function cosmonav_activate (){
 /**
  * Display a custom menu page
  */
-/*function my_custom_menu_page(){
+function my_custom_menu_page(){
     esc_html_e( 'Admin Page Test', 'textdomain' );  
 }
      
-     function cosmonav_page()
+     function cosmonav_page2()
       {
           ?>
            <div class="wrap">
@@ -89,7 +89,7 @@ function cosmonav_activate (){
 			<a href="#gravatar">Gravatar options</a>
 			
 			<?php
-       }*/
+       }
 
 	
 	// ENQUEUE JS and CSS
